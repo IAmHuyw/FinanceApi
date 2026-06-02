@@ -515,12 +515,6 @@ Cách xử lý:
 
 ## Điểm nổi bật backend
 
-Bạn có thể mô tả backend project như sau:
-
-```text
-Built a stock portfolio management REST API using ASP.NET Core, Entity Framework Core, SQL Server, ASP.NET Identity, and JWT authentication. Implemented Repository Pattern, DTO mapping, Code First migrations, filtering/sorting/pagination, user-specific portfolio management, and protected endpoints with Bearer token authorization.
-```
-
 Các điểm kỹ thuật nên nhấn mạnh:
 
 - Xây dựng RESTful API với ASP.NET Core.
