@@ -1,0 +1,17 @@
+# === BACKEND (.NET) ===
+api/bin/
+api/obj/
+*.user
+*.suo
+
+# === FRONTEND (Node/Vite) ===
+finance_frontend/node_modules/
+finance_frontend/dist/
+finance_frontend/.env
+finance_frontend/.env.*
+
+# === IDE & SYSTEM ===
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
